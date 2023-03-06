@@ -6,7 +6,7 @@
 * **Python** is one of the most abstracted languages and offers pure bliss as a programming tool.<br>
 
 * The argument here is that if you can easily interact with the tool, then you can easily be a deadly warrior.<br>
-* Have fun with python and remember, now that your new weapon is easy to master, it is super easy to gain skill and easily take down the biggest of monster<br>
+* Have fun with python and remember, now that your new weapon is easy to master, it is super easy to gain skill and easily take down the biggest of monsters<br>
 ** Let's see what you got ;-)<br>
 
 * HAPPY CODING!!!
